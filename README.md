@@ -8,5 +8,5 @@ Download them into one folder, then run:
 
     python3 edit.py <clips_folder> <output_folder>
 
-Produces `edit_music.mp4` (song + engine) and `edit_engine.mp4` (engine only).
+Produces `edit.mp4` (song only).
 The shot list (clip, start, beats, speed, effects) is at the top of `edit.py`.
